@@ -4,6 +4,11 @@
   "description": "A simple cors proxy for web servers",
   "main": "main.js",
   "bin": "./main.js",
+  "homepage": "https://github.com/vighnesh153/local-cors-proxy/blob/master/README.md",
+  "repository": {
+    "url": "https://github.com/vighnesh153/local-cors-proxy",
+    "type": "git"
+  },
   "scripts": {
     "test": "echo \"test successful\""
   },
